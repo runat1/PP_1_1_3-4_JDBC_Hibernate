@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fd41d19-d4ab-4bdc-adca-2fedd101c28d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/util/Util.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="progeckt14" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="progeckt14" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
