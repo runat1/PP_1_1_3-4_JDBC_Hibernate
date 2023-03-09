@@ -19,14 +19,7 @@ public class Main {
         System.out.println(userService.getAllUsers().toString());
         userService.cleanUsersTable();
         userService.dropUsersTable();
-/*        try {
-            Statement statement = Util.getCon().createStatement();
-            statement.executeUpdate("CREATE TABLE IF NOT EXISTS user(id MEDIUMINT NOT NULL AUTO_INCREMENT, name VARCHAR(30) NOT NULL,lastName VARCHAR(30) NOT NULL, age INTEGER, PRIMARY KEY (id))");
 
-        } catch (SQLException e) {
-            System.out.println("Error");
-            throw new RuntimeException(e);
-        }*/
     }
 }
 
