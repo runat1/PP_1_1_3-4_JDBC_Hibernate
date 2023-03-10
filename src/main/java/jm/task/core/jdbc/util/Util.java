@@ -24,8 +24,9 @@ public class Util {
             Driver driver = new com.mysql.cj.jdbc.Driver();
             DriverManager.registerDriver(driver);
             connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/mydbtest", "root", "poot");
-        } catch (SQLException var1) {
+        } catch (SQLException e) {
             System.out.println("Error проблемма с соединением");
+            throw new RuntimeException(e);
         }
 
         return connection;
